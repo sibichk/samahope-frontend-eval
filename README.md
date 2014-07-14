@@ -10,20 +10,20 @@ mind ;)
 Using JSON data from the TED talk library, you're going to be building a
 simple webpage that does the following things:
 
-1. Displays the most recent TED talk video.
+1. Displays the most recent TED talk video (link to the data below).
 2. Displays the title and description for this video.
 3. Allows a user to click to see the next / previous videos.
 
 ## Slightly more specific instructions
 
 1. First, fork this repo.
-2. Use [this JSON](http://pipes.yahoo.com/pipes/pipe.run?_id=c6b9f27dbbdfed8e30e5dc0a9b445bda&_render=json),
-to access TED talk data.
-3. Any frameworks or libraries can be used, as long as you can defend your decision.
+2. Use [this JSON](http://pipes.yahoo.com/pipes/pipe.run?_id=c6b9f27dbbdfed8e30e5dc0a9b445bda&_render=json)
+to access the TED talk data.
+3. Any frameworks or libraries can be used, as long as you defend your decision.
 4. Host your solution somewhere, or provide instructions for me to run your 
 solution locally.
 5. **Don't** submit a pull request — instead, email me a link to where I can view
-your code and see the solution.
+your code and see the solution privately.
 
 Other than the rules laid out in this readme, assume there are no other rules,
 restrictions, or constraints.
