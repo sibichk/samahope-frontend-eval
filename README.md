@@ -9,9 +9,10 @@ mind ;)
 
 Using JSON data from the TED talk library, you're going to be building a
 simple webpage that does the following things:
+
 1. Displays the most recent TED talk video.
 2. Displays the title and description for this video.
-2. Allows a user to click to see the next / previous videos.
+3. Allows a user to click to see the next / previous videos.
 
 ## Slightly more specific instructions
 
